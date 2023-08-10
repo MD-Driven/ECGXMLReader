@@ -1,0 +1,6 @@
+README.md
+setup.py
+ECGXML.egg-info/PKG-INFO
+ECGXML.egg-info/SOURCES.txt
+ECGXML.egg-info/dependency_links.txt
+ECGXML.egg-info/top_level.txt
